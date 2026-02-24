@@ -2,3 +2,4 @@ transformers
 huggingface_hub
 torch
 rocm
+bitsandbytes

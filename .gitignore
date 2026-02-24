@@ -1,0 +1,72 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+asilynX-env/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest / tooling
+.pytest_cache/
+.mypy_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Model / cache
+.cache/
+transformers_cache/
+hf_cache/
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+asilynX-env/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest / tooling
+.pytest_cache/
+.mypy_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Hugging Face / model caches
+.cache/
+transformers_cache/
+hf_cache/
